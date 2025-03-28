@@ -19,7 +19,11 @@ const poppins = Poppins({
 
 export const metadata = {
   title: "Portfolio de Yasser Razzaki",
-  description: "Portfolio professionnel de Yasser Razzaki, développeur web full stack"
+  description: "Portfolio professionnel de Yasser Razzaki, développeur web full stack",icons: {
+    icon: "/yr.jpg", // Pour le favicon standard
+    shortcut: "/yr.jpg",
+    apple: "/yr.jpg", // Pour iOS
+  }
 }
 
 export default function RootLayout({

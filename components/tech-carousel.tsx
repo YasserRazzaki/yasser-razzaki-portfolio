@@ -5,8 +5,8 @@ import Image from "next/image"
 import { cn } from "@/lib/utils"
 
 const technologies = [
-  { name: "Angular", icon: "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/1200px-Angular_full_color_logo.svg.png?height=80&width=80" },
-  { name: "Next.js", icon: "https://static-00.iconduck.com/assets.00/nextjs-icon-512x512-y563b8iq.png?height=80&width=80" },
+  { name: "Angular", icon: "https://www.neosoft.fr/wp-content/uploads/2023/02/angular.png" },
+  { name: "Next.js", icon: "https://teamraft.com/wp-content/uploads/nextjs.jpg" },
   { name: "TypeScript", icon: "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1200px-Typescript_logo_2020.svg.png?height=80&width=80" },
   { name: "Node.js", icon: "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/1280px-Node.js_logo.svg.png?height=80&width=80" },
   { name: "Tailwind CSS", icon: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNhoXisDruJMDAq3Ltd-wuaMW2lGxck9wAKw&s?height=80&width=80" },

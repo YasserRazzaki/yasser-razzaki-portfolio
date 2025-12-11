@@ -207,11 +207,11 @@ export default function Portfolio() {
                 demoUrl="https://v0-qt-robot-project.vercel.app/"
               />
               <ProjectCard
-                title="Adventurix"
-                description="Conception de l'identité graphique et visuelle d'un jeu fictif, puis création d'un site web vitrine et d'une boutique avec les produits dérivés sur Wordpress."
-                tags={["Wordpress", "Adobe Photoshop", "Adobe Illustrator"]}
-                imageUrl="/adventurix.png?height=300&width=500"
-                demoUrl="https://web-mmi2.iutbeziers.fr/~yasser.razzaki/SAE202/wordpress/"
+                title="EduConnect"
+                description="Conception d'une application mobile avec Java et XML pour Android. EduConnect est similaire à Moodle ou Pronote, avec plusieurs fonctionnalités allant de la consultation des cours au dépôt des devoirs"
+                tags={["Java", "Mobile", "Android"]}
+                imageUrl="/educonnect.png?height=400&width=500"
+                codeUrl="https://github.com/YasserRazzaki/EduConnect"
               />
               <ProjectCard
                 title="Le Karabs"
@@ -260,7 +260,7 @@ export default function Portfolio() {
               <span className="text-primary">Yasser</span> Razzaki
             </Link>
             <p className="text-sm text-muted-foreground text-center md:text-left">
-              © {new Date().getFullYear()} Tous droits réservés
+              © {new Date().getFullYear()} Yasser Razzaki - Tous droits réservés
             </p>
           </div>
           <nav className="flex flex-wrap justify-center gap-4 md:gap-6">

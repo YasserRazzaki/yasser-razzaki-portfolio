@@ -7,15 +7,15 @@ import { cn } from "@/lib/utils"
 const technologies = [
   { name: "Angular", icon: "https://www.neosoft.fr/wp-content/uploads/2023/02/angular.png" },
   { name: "Next.js", icon: "https://teamraft.com/wp-content/uploads/nextjs.jpg" },
-  { name: "TypeScript", icon: "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1200px-Typescript_logo_2020.svg.png?height=80&width=80" },
+  { name: "TypeScript", icon: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSa9YPJv7nSW0q-ymEMg2OVphHLWwSPjeYWzJRNtQvbdttW2a-x1auq1ag&s=10" },
   { name: "Node.js", icon: "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/1280px-Node.js_logo.svg.png?height=80&width=80" },
   { name: "Tailwind CSS", icon: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNhoXisDruJMDAq3Ltd-wuaMW2lGxck9wAKw&s?height=80&width=80" },
   { name: "MongoDB", icon: "https://images.icon-icons.com/2415/PNG/512/mongodb_original_wordmark_logo_icon_146425.png?height=80&width=80" },
-  { name: "PostgreSQL", icon: "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/1200px-Postgresql_elephant.svg.png?height=80&width=80" },
+  { name: "PostgreSQL", icon: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-gXEAWJolo_AZ4XpzmKjZoGmJ9oc93yhFBFg_bLDulCm2BeUZ9t34K70&s=10" },
   { name: "MySQL", icon: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRz_4bkOdrJ38q7ryKEojTe7aTr5M88cLaEgQ&s?height=80&width=80" },
-  { name: "Laravel", icon: "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/1969px-Laravel.svg.png?height=80&width=80" },
+  { name: "Laravel", icon: "https://download.logo.wine/logo/Laravel/Laravel-Logo.wine.png" },
   { name: "Symfony", icon: "https://cdn.worldvectorlogo.com/logos/symfony.svg?height=80&width=80" },
-  { name: "Javascript", icon: "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/640px-JavaScript-logo.png?height=80&width=80" },
+  { name: "Javascript", icon: "https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" },
   { name: "Java", icon: "https://upload.wikimedia.org/wikipedia/fr/2/2e/Java_Logo.svg?height=80&width=80" },
 ]
 

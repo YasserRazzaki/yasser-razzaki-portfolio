@@ -70,7 +70,7 @@ export default function Portfolio() {
               Contact
             </button>
           </nav>
-          <a href="/mon-cv.pdf" download="CV-Developpeur-Web.pdf" className="hidden md:flex">
+          <a href="/mon-cv.pdf" download="CV-Yasser-Razzaki-Developpeur.pdf" className="hidden md:flex">
             <Button variant="outline" size="sm">
               Télécharger CV
             </Button>
@@ -124,17 +124,16 @@ export default function Portfolio() {
                 </Link>
               </div>
             </div>
-            <div className="flex-1 flex justify-center">
-              <div className="relative w-72 h-72 md:w-96 md:h-96 rounded-full overflow-hidden border-4 border-primary/20">
-                <Image
-                  src="/yr.jpg?height=400&width=400"
-                  alt="Portrait de Yasser Razzaki développeur"
-                  fill
-                  className="object-cover"
-                  priority
-                />
-              </div>
-            </div>
+            <div className="relative w-72 h-72 md:w-96 md:h-96 rounded-full overflow-hidden border-4 border-primary/20">
+  <Image
+    src="/yr.jpg"
+    alt="Portrait de Yasser Razzaki développeur"
+    width={400}
+    height={400}
+    className="w-[100%] h-full max-w-none object-cover object-[70%_30%]"
+    priority
+  />
+</div>
           </div>
         </section>
 

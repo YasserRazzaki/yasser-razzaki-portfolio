@@ -54,7 +54,7 @@ export default function MobileMenu({ scrollToSection, refs }: MobileMenuProps) {
           <Button variant="ghost" onClick={() => handleNavClick(refs.contactRef)} className="justify-start">
             Contact
           </Button>
-          <a href="/mon-cv.pdf" download="CV-Developpeur-Web.pdf" className="w-full">
+          <a href="/mon-cv.pdf" download="CV-Yasser-Razzaki-Developpeur.pdf" className="w-full">
             <Button variant="outline" className="w-full">
               Télécharger CV
             </Button>
